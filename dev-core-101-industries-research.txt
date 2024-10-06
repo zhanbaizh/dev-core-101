@@ -1,0 +1,15 @@
+1. Здравоохранение
+1.1 MyFitnessPal
+1.2 Headspace
+2. Финансы
+2.1 PayPal
+2.2 Revolut
+3. Образование
+3.1 Duolingo
+3.2 Khan Academy
+4. Развлечения
+4.1 Netflix
+4.2 Spotify
+5. Транспорт
+5.1 Uber
+5.2 Google Maps
