@@ -39,7 +39,7 @@ def add_user(user_list):
     print(f"User {name} is succesfully added")
 
 def remove_user(user_list):
-    name = print('Enter the user who must be eliminated: ')
+    name = input('Enter the user who must be eliminated: ')
     for user in user_list:
         if user['name'] == name:
             user_list.remove(user)
